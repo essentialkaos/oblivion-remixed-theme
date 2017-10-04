@@ -17,10 +17,12 @@
 				<string>#A7A7A7</string>
 				<key>foreground</key>
 				<string>#F3F3F3</string>
+				<key>gutterForeground</key>
+				<string>#FFFFFF30</string>
 				<key>invisibles</key>
 				<string>#FFFFFF40</string>
 				<key>lineHighlight</key>
-				<string>#FFFFFF08</string>
+				<string>#FFFFFF12</string>
 				<key>selection</key>
 				<string>#DDF0FF33</string>
 			</dict>
